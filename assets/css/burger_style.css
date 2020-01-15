@@ -11,7 +11,7 @@ li {
   .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: aqua;
+    background: rgb(40, 48, 48);
   }
   
   .form-group {
@@ -19,12 +19,12 @@ li {
   }
   h1{
     text-align: center;
-    background-color: lightpink;
+    background-color: rgba(231, 221, 125, 0.411);
     margin: auto;
   }
   #menu {
     float: left;
-    background-color: lightpink;
+    background-color: rgba(231, 221, 125, 0.411);
     border-radius: 25px;
     border: 2px solid #73AD21;
     padding: 20px; 
@@ -34,7 +34,7 @@ li {
   }
   #myMenu{
     float: left;
-    background-color: lightpink;
+    background-color: rgba(231, 221, 125, 0.411);
     border-radius: 25px;
     border: 2px solid #73AD21;
     padding: 20px; 
@@ -44,7 +44,7 @@ li {
   }
   #add{
     float: left;
-    background-color: lightpink;
+    background-color: rgba(231, 221, 125, 0.411);
     border-radius: 25px;
     border: 2px solid #73AD21;
     padding: 20px; 
